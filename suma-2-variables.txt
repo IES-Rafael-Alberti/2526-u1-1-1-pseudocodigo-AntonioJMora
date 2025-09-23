@@ -1,0 +1,13 @@
+Inicio
+
+Suma = 0
+Num = 0
+
+Para i en (1...3) hacer
+
+  Num = Introduzca un número
+  suma =  Suma + Num
+
+El resultado de la suma es de suma
+
+Fin
