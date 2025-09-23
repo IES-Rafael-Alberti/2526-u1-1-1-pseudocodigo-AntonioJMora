@@ -1,0 +1,16 @@
+Inicio 
+
+Precio = Introduzca un precio
+
+Iva = Introduzca el IVA
+
+Mientras (Precio y Iva == "" o letras) entonces
+  Preguntar de nuevo
+
+Si (Precio y Iva != "" o letras) entonces
+  Cuenta1 = 1 + Iva/100
+  Cuenta2 = Precio * Cuenta1
+
+Muestra El precio final es de Cuenta2
+
+Final
