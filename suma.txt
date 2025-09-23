@@ -1,0 +1,17 @@
+Inicio
+
+Num1 = Inserta el primer número
+
+Num2 = Inserta el segundo número
+
+Num3 = Inserta el tercer número
+
+Mientras (Num1, Num2 y Num3 == "" o letras)
+  Vuelve a pedir Num1, Num2 y Num3
+
+Si (Num1, Num2 y Num3 != "" o letras) entonces
+  Suma = Num1 + Num2 + Num3
+
+Muestra El total es Suma
+
+Fin
