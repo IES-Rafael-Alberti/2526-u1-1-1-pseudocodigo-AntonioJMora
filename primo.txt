@@ -1,0 +1,13 @@
+Inicio 
+  Lee x 
+    Si x < 2 entonces
+      Escribe x no es primo
+    Sino
+      Raíz = raíz de x 
+      Para i en (2...Raíz) 
+         Cuenta = x / i 
+      Si Cuenta no tiene divisor 
+         Escribe x es primo 
+      Si cuenta tiene divisor 
+          Escribe x no es primo 
+Fin     

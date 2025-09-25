@@ -1,0 +1,6 @@
+Inicio
+  Lee x
+  Para I en (1...10) hacer
+     Cuenta = X * I
+  Escribe X * I es Cuenta
+Fin  

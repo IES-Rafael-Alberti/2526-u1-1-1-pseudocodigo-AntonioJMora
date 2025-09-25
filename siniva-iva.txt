@@ -1,0 +1,14 @@
+Inicio
+
+Total = Introduzca el total
+
+Mientras que (Total == "" o letras) entonces
+  Vuelve a pedir Total
+
+Si (Total != "" o letras) entonces
+  Sin = Total/1.10
+  Ivapag = Total - Sin
+
+Muestra El precio sin IVA es de Sin y el IVA pagado es dde Ivapag
+
+Fin

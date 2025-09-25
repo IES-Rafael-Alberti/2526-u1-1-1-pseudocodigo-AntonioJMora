@@ -1,0 +1,13 @@
+Inicio
+Horas = Introduzca el número de horas trabajadas
+costehora = Introduzca el coste de la hora
+
+Mientras (Horas y costehora == "" o letras) hacer
+   Volver a pedir datos
+
+Si (Horas y costehora != "" o letras) entonces
+   Cuenta = Horas x costehora
+
+Escribe Su importe total es Cuenta
+
+Fin

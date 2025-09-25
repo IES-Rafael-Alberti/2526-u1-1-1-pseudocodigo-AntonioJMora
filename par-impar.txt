@@ -1,0 +1,7 @@
+Inicio
+  Tomamos X y lo dividimos entre 2
+  Si el resto de la división es 0
+    Entonces x es par
+  Si el resto de la división es 1
+    Entonces x es impar
+Fin

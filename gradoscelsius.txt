@@ -1,0 +1,14 @@
+Inicio
+
+Celsius = Indica su temperatura en grados celsius
+
+Mientras (Celsius == "" o letras) entonces
+   Volver a pedir Celsius
+
+Si (Celsius != "" o letras) entonces
+   Cuenta1 = Celsius x 1.8
+   Cuenta2 = Cuenta1 + 32
+
+Muestra Su temperatura en Fahrenheit es de Cuenta2
+
+Fin

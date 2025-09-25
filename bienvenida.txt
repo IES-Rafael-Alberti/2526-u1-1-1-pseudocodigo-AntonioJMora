@@ -1,0 +1,7 @@
+Inicio
+  Nombre = Escriba su nombre
+  Si (Nombre == "") entonces
+    Vuelva a preguntar su nombre
+  Si (Nombre != "") entonces
+    Muestra "Hola, Nombre"
+Fin
