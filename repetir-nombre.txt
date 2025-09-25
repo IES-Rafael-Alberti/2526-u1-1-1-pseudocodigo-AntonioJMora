@@ -1,0 +1,11 @@
+Inicio
+
+  nombre = Indique su nombre
+
+  n = Indique el número de veces a repetir
+
+  Para x en (1 ... n) hacer
+
+    Mostrar nombre
+
+Fin
