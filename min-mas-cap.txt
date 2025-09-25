@@ -1,0 +1,12 @@
+Inicio
+  nombre = Muestra Indique su nombre completo
+
+  min = Minúsculas(nombre)
+  mayus = Mayúsculas(nombre)
+  cap = Capitalizar(nombre)
+
+  Muestra Nombre en minúsculas: min
+  Muestra Nombre en mayúsculas: mayus
+  Muestra Nombre capitalizado: cap
+
+Fin
