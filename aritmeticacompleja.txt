@@ -1,0 +1,6 @@
+Inicio
+  Resultado = (5 + 3) * 2
+
+  Muestra El resultado de la operación es de Resultado
+
+Fin
