@@ -1,0 +1,13 @@
+Inicio
+
+  capital = Muestra Introduzca el capital inicial
+
+  primer = capital * (1 + 0.04)^1
+
+  segundo = capital * (1 + 0.04)^2
+
+  tercer = capital * (1 +0.04)^3
+
+  Muestra El saldo del primer año es de primer, el del segundo año es de segundo y el del tercer año es de tercer
+
+Fin
