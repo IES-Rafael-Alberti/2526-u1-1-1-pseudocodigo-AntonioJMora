@@ -1,0 +1,19 @@
+Inicio
+
+  pan = Introduzca el número de barras no frescas
+
+  habitual = 3,49
+
+  descuento = 0,6
+
+  preciodescuento = habitual * (1 - descuento)
+
+  total = preciodescuento * pan
+
+  Muestra El precio habitual de la barra es de habitual
+
+  Muestra El descuento aplicado es de preciodescuento
+  
+  Muestra El total con el descuento aplicado es de total
+
+Fin
