@@ -1,0 +1,8 @@
+Inicio
+  N = Indique el entero positivo
+
+  Cuenta = N*(N+1)/2
+
+  Muestra La suma es: Cuenta
+
+Fin
