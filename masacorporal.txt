@@ -1,0 +1,11 @@
+Inicio
+
+  Peso = Indique su peso en kg
+
+  Altura = Indique su altura en m
+
+  IMC = Peso / (Altura * Altura)
+
+  Muestra Su IMC es de IMC
+
+Fin
