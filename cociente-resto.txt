@@ -1,0 +1,13 @@
+Inicio
+
+n = Introduzca el número a dividir
+
+m = Introduzca el número por el que se va a dividir
+
+Cociente = n / m
+
+Resto = n % m
+
+Muestra el cociente de la división es Cociente y el resto es Resto
+
+Fin
